@@ -13,7 +13,8 @@
   "keywords": [
     "eslint",
     "config",
-    "es6"
+    "es6",
+    "jasmine"
   ],
   "author": "Dennis Sänger <npm-eslint-config-ds82-15@mail.ds82.de>",
   "license": "MIT",
