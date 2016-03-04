@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/ds82/eslint-config-ds82-jasmine#readme",
   "peerDependencies": {
-    "eslint": "^1.9.0"
+    "eslint": ">=1.9.0"
   },
   "config": {
     "ghooks": {
